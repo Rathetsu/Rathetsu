@@ -10,4 +10,11 @@
        alt="snake" /></a>
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/AhmedEzzatMuh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedezzatmuh/" href="https://www.linkedin.com/in/ahmedezzatmuh/" >
+
+<img src="https://img.shields.io/badge/ah.ezzat.muh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ah.ezzat.muh@gmail.com" href="mailto:ah.ezzat.muh@gmail.com" >
+
+</div>
 
