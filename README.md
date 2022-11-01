@@ -15,7 +15,7 @@
 	<a href="https://www.linkedin.com/in/ahmedezzatmuh/" target="_blank">
 		<img src="https://img.shields.io/badge/AhmedEzzatMuh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a href="mailto:ah.ezzat.muh@gmail.com" >
+	<a href="mailto:ah.ezzat.muh@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/ah.ezzat.muh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
 	</a>
 </div>
